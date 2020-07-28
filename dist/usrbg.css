@@ -2319,3 +2319,10 @@
 [data-user-id*="265924886461939712"]{
   --user-background: url('https://cdn.discordapp.com/attachments/735571671376724130/735571707229634580/previewfile_1305375622.jpg');
 }
+
+/*Red Zone#7984*/
+
+[user_by_bdfdb*="686592741400117273"],
+[data-user-id*="686592741400117273"]{
+  --user-background: url('https://media.tenor.com/images/cf0aa371a1600457ed444f29b134b498/tenor.gif');
+}
